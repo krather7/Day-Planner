@@ -1,9 +1,9 @@
 # Day Planner
 ## Contents:
-#### Installation
-#### USAGE
-#### CREDITS
-#### Screenshot
+#### * Installation
+#### * USAGE
+#### * CREDITS
+#### * Screenshot
 ### Installation
 * Github Repo Link: https://github.com/krather7/Day-Planner
 * Website link: https://krather7.github.io/Day-Planner/
