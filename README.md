@@ -17,3 +17,4 @@
 ### Credits
 * Kyle Rather
 ### Screenshot
+![Screenshot](https://github.com/krather7/Day-Planner/blob/main/Screenshot.png)
