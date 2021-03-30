@@ -20,6 +20,6 @@
 * [jQuery](https://www.jqueryscript.net/)
 * [Bootstrap](https://getbootstrap.com/)
 ### Credits:
-* Kyle Rather
+* [Kyle Rather](mailto:krather7@gmail.com)
 ### Screenshot:
 ![Screenshot](https://github.com/krather7/Day-Planner/blob/main/Screenshot.png)
