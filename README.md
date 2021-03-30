@@ -1,9 +1,10 @@
 # Day Planner
 ## Contents:
-#### * Installation
+#### * INSTALLATION
 #### * USAGE
+#### * TECHNOLOGIES
 #### * CREDITS
-#### * Screenshot<br>
+#### * SCREENSHOT<br>
 ### Installation:
 * Github Repo Link: https://github.com/krather7/Day-Planner
 * Website link: https://krather7.github.io/Day-Planner/
@@ -14,6 +15,10 @@
 * Past time is displayed in GREY
 * Future time is displayed in GREEN
 * The user can put information into each time slot and select the SAVE button to save changes
+### Technologies:
+* [Moment.js](https://momentjs.com/)
+* [jQuery](https://www.jqueryscript.net/)
+* [Bootstrap](https://getbootstrap.com/)
 ### Credits:
 * Kyle Rather
 ### Screenshot:
