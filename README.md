@@ -12,9 +12,9 @@
 ## Deployed Website
 - https://krather7.github.io/Day-Planner/
 ## Description
-- The user can enter text and a title of a note that can be saved on an HTML page
-- Notes can be saved and referenced later
-- Notes can be deleted as needed
+- Normal business hours are displayed and color coded by current hour, past hour, and future hours
+- The user can enter appointments, save them, and return to them later using local storage
+- This project uses MOMENT.js to reference the time of day
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 <br />
