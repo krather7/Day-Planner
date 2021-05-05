@@ -1,25 +1,32 @@
 # Day Planner
-## Contents:
-#### * INSTALLATION
-#### * USAGE
-#### * TECHNOLOGIES
-#### * CREDITS
-#### * SCREENSHOT<br>
-### Installation:
-* Github Repo Link: https://github.com/krather7/Day-Planner
-* Website link: https://krather7.github.io/Day-Planner/
-### Usage:
-* This website contains a simple day planner for typical business hours of 9am-5pm
-* The current date is displayed at the top
-* Current time is displayed in RED
-* Past time is displayed in GREY
-* Future time is displayed in GREEN
-* The user can put information into each time slot and select the SAVE button to save changes
-### Technologies:
-* [Moment.js](https://momentjs.com/)
-* [jQuery](https://www.jqueryscript.net/)
-* [Bootstrap](https://getbootstrap.com/)
-### Credits:
-* [Kyle Rather](mailto:krather7@gmail.com)
-### Screenshot:
-![Screenshot](https://github.com/krather7/Day-Planner/blob/main/Screenshot.png)
+
+<h1 align="center">Day Planner</h1>
+  
+![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
+## Table of Contents
+- [Deployed Webite](#deployedwebsite)
+- [Description](#description)
+- [License](#license)
+- [License](#license)
+- [Contributing](#contributing)
+- [Questions](#questions)
+## Deployed Website
+- https://krather7.github.io/Day-Planner/
+## Description
+- The user can enter text and a title of a note that can be saved on an HTML page
+- Notes can be saved and referenced later
+- Notes can be deleted as needed
+## License
+![badge](https://img.shields.io/badge/license-MIT-brightgreen)
+<br />
+This application is covered by the MIT license. 
+## Contributing
+Kyle Rather
+## Questions
+Contact me through email or on github<br />
+<br />
+Find me on GitHub: [krather7](https://github.com/krather7)<br />
+<br />
+Email: krather7@gmail.com<br /><br />
+
+
