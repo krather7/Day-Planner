@@ -7,7 +7,6 @@
 - [Deployed Webite](#deployed)
 - [Description](#description)
 - [License](#license)
-- [License](#license)
 - [Contributing](#contributing)
 - [Questions](#questions)
 ## Deployed Website
