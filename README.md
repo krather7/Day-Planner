@@ -4,7 +4,7 @@
   
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 ## Table of Contents
-- [Deployed Webite](#deployedwebsite)
+- [Deployed Webite](#deployed)
 - [Description](#description)
 - [License](#license)
 - [License](#license)
